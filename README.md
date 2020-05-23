@@ -13,7 +13,9 @@
   - sklearn.
   - numpy.
   - pandas.
- pip command:
-  pip install librosa sklearn numpy pandas
+  
+  
+#### pip command:
+  - pip install librosa sklearn numpy pandas
 
 
