@@ -1,5 +1,5 @@
 # Speech Emotion Recognition
-
+### Speech emotion recognition is a simple Python mini-project using Arabic Natural Audio Dataset
 #### Data : 
  - [ANAD dataset](https://www.kaggle.com/suso172/arabic-natural-audio-dataset) 
 
