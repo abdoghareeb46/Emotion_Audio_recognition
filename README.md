@@ -4,7 +4,7 @@
  - [ANAD dataset](https://www.kaggle.com/suso172/arabic-natural-audio-dataset) 
 
 #### Objective
-  To build a model to recognize emotion from speech using the librosa and sklearn libraries and the ANAD dataset.
+  To build a model to recognize emotion from speech using the librosa and sklearn libraries using the ANAD dataset.
 
 
 #### Prerequisites
